@@ -1,0 +1,30 @@
+body{
+    display: grid;
+    place-items: center;
+    box-sizing: border-box;
+}
+.form{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 14px;
+    width:500px;
+    height: 400px;
+    padding: 30px;
+}
+.Name{
+    width:400px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 20px;
+    /* border: none; */
+}
+.username{
+    width:400px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    
+    
+    /* border: none; */
+}
